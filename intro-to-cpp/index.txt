@@ -1,0 +1,64 @@
++--------------------+
+|Assignment Questions|
++--------------------+
+1. Write a program to find addition of three numbers.
+2. Write a program to find addition,subtraction,multiplication,division of two numbers.
+3. Write a program to find average of four numbers.
+4. Write a program to find area of circle.
+5. Write a program to find circumference/perimeter of circle.
+6. Write a program to find area of triangle.
+7. Write a program to find area of square.
+8. Write a program to find area of rectangle.
+9. Write a program which accept six subject marks and calculate total marks and percentage.
+10.Write a program to swap two numbers.
+11.Write a program that finds memory in bytes that the operand occupies.
+12.Write a program which calculate (x^y) by using inbuilt function.
+13.Write a program to calculate square-root and cube-root of given number.
+14.Write a program to find log of entered number.
+15.Write a program to find sin,cos,tan of entered number.ṣ
+16.Write a program to calculate simple interest.
+
+17.Write a program to calculate compound interest.
+18.Write a program to converts temprature in Celcius to Fahrenheit.
+19.Write a program which accept time in hours and converts it into  corresponding minutes and seconds.
+20.Write a program which accept total number of bytes and converts it into kilobytes.
+20.Write a program which accept single character as input and prints its corresponding ASCII value.
+21.Write a program which shows the use of bitwise.
+
++------------+
+|1.Operators:|
++------------+
+- Arithmetic (+,-,*,/,%)
+- Relational (<,>,<=,>=,!=,==)
+- Logical (&&,||,!)
+- Assignment (=,+=,-=,*=,/=,%=)
+- Inc-Dec (++,--)
+- Conditional (?:;)
+- Bitwise (&,|,^,<<,>>)
+- sizeof
+
++-------------+
+|2.Data Types:|
++-------------+
+- Primitive    : int/char/void/float/double 
+- Derived      : array/poinetr 
+- User-Defined : stuct/union/typedef/enum
+
++---------------+
+|3.Input-output:|
++---------------+
+- scanf()  : scanf("control-string",&arg,&arg,..&argN);
+- printf() : print("control-string",arg1,arg2,..argN);
+
+- cin  : cin>>var1;
+- cout : cout<<var1;
+
++----------------+
+|4.Character I/O:|
++----------------+
+- getchar() : char[] name=getchar();
+- putchar() : putchar(name);
+
++--------------+
+|5.Type-Casting|
++--------------+
